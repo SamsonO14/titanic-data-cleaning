@@ -51,7 +51,7 @@ This project focused on **cleaning** the Titanic dataset. Future steps may inclu
 
 ## 👤 Author
 
-**Samson Ogunwaee*  
+**Samson Ogunware*  
 - GitHub: [@SamsonO14](https://github.com/SamsonO14)  
 - LinkedIn: (optional)
 
